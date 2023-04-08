@@ -1,0 +1,38 @@
+## Introduction to Git
+
+select https url 
+
+git clone url
+
+ls -la   = to see the init files and long files  ls --help
+
+create a file = vi a.txt
+
+cd .   current folder
+cd .. go back folder
+
+
+git status 
+
+git add     - to make the local file created by us to be trackable 
+  git add <file name>  - ifthere is only  1 fil
+  git add .  = if there are multiple files
+  git rm cached <file name> = to remove file from staging area to working area
+  
+git commit   / git commit -m "message to enter"
+
+git commit is for move the file from staging  area to local repository
+
+git log = to see the commit id   /git log oneline
+
+git branch = to show the brach detais
+
+git push -u <url/alias name  to push the changes to remote
+
+
+
+
+global level settings- developer settings - personal access token - classic - generate token 
+
+
+
