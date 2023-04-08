@@ -29,7 +29,9 @@ git branch = to show the brach detais
 
 git push -u <url/alias name  to push the changes to remote
 
+git remote -v  = to see the remote url details
 
+git remote add <alias name> url  = to add alais name
 
 
 global level settings- developer settings - personal access token - classic - generate token 
